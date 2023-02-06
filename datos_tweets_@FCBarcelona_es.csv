@@ -1,0 +1,489 @@
+created_at,id,id_str,text,full_text,truncated,entities,source,in_reply_to_status_id,in_reply_to_status_id_str,in_reply_to_user_id,in_reply_to_user_id_str,in_reply_to_screen_name,geo,coordinates,place,contributors,is_quote_status,retweet_count,favorite_count,favorited,favorited_by,retweeted,scopes,lang,possibly_sensitive,display_text_width,display_text_range,retweeted_status,quoted_status,quoted_status_id,quoted_status_id_str,quoted_status_permalink,quote_count,timestamp_ms,reply_count,filter_level,metadata,query,withheld_scope,withheld_copyright,withheld_in_countries,possibly_sensitive_appealable
+2023-02-06T00:45:11Z,1622395950697267200,1622395950697267202,"El Spotify Camp Nou siempre será tu casa, @ivanrakitic https://t.co/faF0k6lJww","El Spotify Camp Nou siempre será tu casa, @ivanrakitic https://t.co/faF0k6lJww",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,122,2017,FALSE,NA,FALSE,NA,es,FALSE,NA,54,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-06T00:30:12Z,1622392176717041700,1622392176717041664,Amor por el Barça https://t.co/j5gREbfbp4,Amor por el Barça https://t.co/j5gREbfbp4,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,225,2494,FALSE,NA,FALSE,NA,es,FALSE,NA,17,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-06T00:15:12Z,1622388403676364800,1622388403676364806,Así empezó   /   Así acabó https://t.co/Owe72XMLHD,Así empezó   /   Así acabó https://t.co/Owe72XMLHD,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,77,1725,FALSE,NA,FALSE,NA,es,FALSE,NA,26,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-06T00:00:15Z,1622384642463522800,1622384642463522817,Un crit valent https://t.co/xagHf4zhFs,Un crit valent https://t.co/xagHf4zhFs,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,133,2695,FALSE,NA,FALSE,NA,fr,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T23:50:11Z,1622382109619798e3,1622382109619798030,"¿Qué le dice?
+
+Solo respuestas incorrectas https://t.co/l2MVV9qSOD","¿Qué le dice?
+
+Solo respuestas incorrectas https://t.co/l2MVV9qSOD",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,118,2507,FALSE,NA,FALSE,NA,es,FALSE,NA,42,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T23:40:11Z,1622379591909212200,1622379591909212160,Tweet de apreciación para Andreas Christensen https://t.co/iBravBqQ79,Tweet de apreciación para Andreas Christensen https://t.co/iBravBqQ79,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,496,8705,FALSE,NA,FALSE,NA,es,FALSE,NA,45,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T23:30:00Z,1622377027549667300,1622377027549667328,😁 Más líderes,😁 Más líderes,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,97,2053,FALSE,NA,FALSE,NA,es,NA,NA,13,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T23:20:11Z,1622374559621021700,1622374559621021700,"Vuestro apoyo es T😍P, culers https://t.co/YATIm62aAj","Vuestro apoyo es T😍P, culers https://t.co/YATIm62aAj",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,171,2986,FALSE,NA,FALSE,NA,es,FALSE,NA,28,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T23:10:11Z,1622372039934746600,1622372039934746624,Tú ahora mismo: https://t.co/qutmavBb7a,Tú ahora mismo: https://t.co/qutmavBb7a,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,188,3724,FALSE,NA,FALSE,NA,es,FALSE,NA,15,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T23:04:14Z,1622370543243612200,1622370543243612160,La Xavineta pone la octava marcha https://t.co/BfSw6aWJID,La Xavineta pone la octava marcha https://t.co/BfSw6aWJID,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,810,10661,FALSE,NA,FALSE,NA,ca,FALSE,NA,33,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T22:50:10Z,1622367002609303600,1622367002609303554,Siempre en mi equipo https://t.co/ECF1rXsFPw,Siempre en mi equipo https://t.co/ECF1rXsFPw,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,668,10652,FALSE,NA,FALSE,NA,es,FALSE,NA,20,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T22:40:11Z,1622364491655561200,1622364491655561223,"¿Otra portería a cero para Marc?
+Otra portería a cero para Marc https://t.co/5EbhJx3flU","¿Otra portería a cero para Marc?
+Otra portería a cero para Marc https://t.co/5EbhJx3flU",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,278,4504,FALSE,NA,FALSE,NA,es,FALSE,NA,63,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T22:30:11Z,1622361976314757e3,1622361976314757120,El capitán abrió la lata https://t.co/d9EwgMOQuM,El capitán abrió la lata https://t.co/d9EwgMOQuM,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,162,3448,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T22:17:27Z,1622358771241570300,1622358771241570305,La hist💘ria solo acaba de empezar https://t.co/WC50gSe7B8,La hist💘ria solo acaba de empezar https://t.co/WC50gSe7B8,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,622,6852,FALSE,NA,FALSE,NA,es,FALSE,NA,33,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T22:14:16Z,1622357967491272700,1622357967491272705,"Sus colores
+Tus colores
+Nuestros colores 💙❤️ https://t.co/uLToFrXDtM","Sus colores
+Tus colores
+Nuestros colores 💙❤️ https://t.co/uLToFrXDtM",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1045,12347,FALSE,NA,FALSE,NA,es,FALSE,NA,44,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T22:02:23Z,1622354977321619500,1622354977321619456,https://t.co/khoazE29Wd,https://t.co/khoazE29Wd,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,2607,22360,FALSE,NA,FALSE,NA,zxx,FALSE,NA,0,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:58:32Z,1622354010064801800,1622354010064801793,"⏰ ¡Finaaaaal! (3-0) 🙌
+⚽ Jordi Alba, Gavi y Raphinha
+
+#BarçaSevilla https://t.co/BInXfXRBDB","⏰ ¡Finaaaaal! (3-0) 🙌
+⚽ Jordi Alba, Gavi y Raphinha
+
+#BarçaSevilla https://t.co/BInXfXRBDB",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1489,10827,FALSE,NA,FALSE,NA,da,FALSE,NA,66,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:46:17Z,1622350928115384300,1622350928115384320,"🔁 Doble cambio en el Barça:
+
+🔼 Ansu Fati y Marcos Alonso
+🔽 Gavi y Araujo","🔁 Doble cambio en el Barça:
+
+🔼 Ansu Fati y Marcos Alonso
+🔽 Gavi y Araujo",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,54,1639,FALSE,NA,FALSE,NA,es,NA,NA,72,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:42:14Z,1622349908219920400,1622349908219920385,"🎯 ¡GOOOOOOL DE RAPHINHAAAA! (3-0, min 79) https://t.co/9oG9O3mJ8D","🎯 ¡GOOOOOOL DE RAPHINHAAAA! (3-0, min 79) https://t.co/9oG9O3mJ8D",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,340,2938,FALSE,NA,FALSE,NA,pt,FALSE,NA,41,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:37:54Z,1622348817797464e3,1622348817797464064,Ya golea con el 6 https://t.co/PxIm5JjXl9,Ya golea con el 6 https://t.co/PxIm5JjXl9,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,801,10338,FALSE,NA,FALSE,NA,es,FALSE,NA,17,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:36:08Z,1622348373893283800,1622348373893283840,"🔥 ¡¡GOOOOOL DE GAVIII!! (2-0, min 70) https://t.co/j3z70Kpnbf","🔥 ¡¡GOOOOOL DE GAVIII!! (2-0, min 70) https://t.co/j3z70Kpnbf",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,310,2792,FALSE,NA,FALSE,NA,en,FALSE,NA,37,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:24:26Z,1622345430003601400,1622345430003601408,J🎯RDI  ALBA https://t.co/7APqQZFefd,J🎯RDI  ALBA https://t.co/7APqQZFefd,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,475,9944,FALSE,NA,FALSE,NA,fr,FALSE,NA,11,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:22:55Z,1622345047667622e3,1622345047667621893,"⚽ ¡¡GOOOOOL DE JORDI ALBA!! (1-0, min 58) 
+
+#BarçaSevilla https://t.co/rmLjNDoGHO","⚽ ¡¡GOOOOOL DE JORDI ALBA!! (1-0, min 58) 
+
+#BarçaSevilla https://t.co/rmLjNDoGHO",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,362,2556,FALSE,NA,FALSE,NA,es,FALSE,NA,57,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:20:16Z,1622344378973917200,1622344378973917184,¡Vamos Barça! 🔵🔴 https://t.co/F7wpHhteaF,¡Vamos Barça! 🔵🔴 https://t.co/F7wpHhteaF,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,240,3469,FALSE,NA,FALSE,NA,es,FALSE,NA,16,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T21:08:57Z,1622341531322441700,1622341531322441732,"▶ ¡La segunda mitad, en juego!
+#BarçaSevilla https://t.co/HvhbnFBb9u","▶ ¡La segunda mitad, en juego!
+#BarçaSevilla https://t.co/HvhbnFBb9u",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,72,1394,FALSE,NA,FALSE,NA,es,FALSE,NA,44,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:57:44Z,1622338707834474500,1622338707834474497,"👥 Hoy somos 77.987 espectadores y espectadoras en el Spotify Camp Nou
+
+¡Gracias, afición! 💙❤
+
+#BarçaSevilla https://t.co/2liRnn4bTS","👥 Hoy somos 77.987 espectadores y espectadoras en el Spotify Camp Nou
+
+¡Gracias, afición! 💙❤
+
+#BarçaSevilla https://t.co/2liRnn4bTS",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,196,3216,FALSE,NA,FALSE,NA,es,FALSE,NA,107,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:53:47Z,1622337715822858200,1622337715822858241,"⏰ Descanso (0-0)
+#BarçaSevilla https://t.co/7Bv6shtaKC","⏰ Descanso (0-0)
+#BarçaSevilla https://t.co/7Bv6shtaKC",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,74,1361,FALSE,NA,FALSE,NA,es,FALSE,NA,30,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:32:40Z,1622332401732001800,1622332401732001795,‼ ¡Bounou desvía el disparo de Lewandowski! https://t.co/cBOKYLWCoj,‼ ¡Bounou desvía el disparo de Lewandowski! https://t.co/cBOKYLWCoj,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,61,1702,FALSE,NA,FALSE,NA,es,FALSE,NA,43,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:28:44Z,1622331410500427800,1622331410500427777,💙❤ https://t.co/1EXRxWB3Eo,💙❤ https://t.co/1EXRxWB3Eo,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,259,3183,FALSE,NA,FALSE,NA,und,FALSE,NA,2,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:21:29Z,1622329584795500500,1622329584795500544,😱,😱,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,65,2976,FALSE,NA,FALSE,NA,art,NA,NA,1,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:15:21Z,1622328044005335e3,1622328044005335044,"🔁 Minuto 7. Sergio no puede seguir después de una acción con En-Nesyri
+
+🔼 Kessie
+🔽 Sergio
+
+#BarçaSevilla","🔁 Minuto 7. Sergio no puede seguir después de una acción con En-Nesyri
+
+🔼 Kessie
+🔽 Sergio
+
+#BarçaSevilla",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,46,1089,FALSE,NA,FALSE,NA,es,NA,NA,104,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:04:37Z,1622325343934713900,1622325343934713857,📍 ¡Comieeeeenza el partido! #BarçaSevilla,📍 ¡Comieeeeenza el partido! #BarçaSevilla,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,86,1134,FALSE,NA,FALSE,NA,es,NA,NA,41,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T20:04:35Z,1622325333578891300,1622325333578891264,"Descanse en paz, Josep Maria Espinàs https://t.co/wkTwszxMeq","Descanse en paz, Josep Maria Espinàs https://t.co/wkTwszxMeq",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,71,1123,FALSE,NA,FALSE,NA,ca,FALSE,NA,36,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:56:16Z,1622323242521305e3,1622323242521305091,"¿Hay ganas de #BarçaSevilla?
+
+Pedri: https://t.co/btBofYWyLA","¿Hay ganas de #BarçaSevilla?
+
+Pedri: https://t.co/btBofYWyLA",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,138,1763,FALSE,NA,FALSE,NA,es,FALSE,NA,36,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:51:58Z,1622322159367463e3,1622322159367462913,El balón no se separa de él https://t.co/j97XdjPKJD,El balón no se separa de él https://t.co/j97XdjPKJD,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,261,3815,FALSE,NA,FALSE,NA,es,FALSE,NA,27,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:43:57Z,1622320140845998e3,1622320140845998083,"El outfit del calentamiento
+
+🫶 @nikefootball https://t.co/mvizrk7Bv5","El outfit del calentamiento
+
+🫶 @nikefootball https://t.co/mvizrk7Bv5",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,87,1884,FALSE,NA,FALSE,NA,it,FALSE,NA,44,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:39:48Z,1622319096443375600,1622319096443375618,"⚔️ Resultado
+⚽️ Goleadores 
+
+Hora de los pronósticos 👇","⚔️ Resultado
+⚽️ Goleadores 
+
+Hora de los pronósticos 👇",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,58,2212,FALSE,NA,FALSE,NA,es,NA,NA,54,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:24:40Z,1622315287558213600,1622315287558213636,"Hola, culers. ¿Hay ganas de fútbol? https://t.co/cDlwZMwbi4","Hola, culers. ¿Hay ganas de fútbol? https://t.co/cDlwZMwbi4",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,206,5442,FALSE,NA,FALSE,NA,es,FALSE,NA,35,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:12:07Z,1622312129758990300,1622312129758990336,"El FC Barcelona quiere mostrar su sentido pésame por la muerte de Josep Maria Espinàs, escritor catalán y coautor de nuestro himno, el ‘Cant del Barça’. Descanse en paz https://t.co/SWnLgaj4JW","El FC Barcelona quiere mostrar su sentido pésame por la muerte de Josep Maria Espinàs, escritor catalán y coautor de nuestro himno, el ‘Cant del Barça’. Descanse en paz https://t.co/SWnLgaj4JW",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,424,5338,FALSE,NA,FALSE,NA,es,FALSE,NA,168,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T19:11:57Z,1622312085873901600,1622312085873901568,Él está de acuerdo https://t.co/uAs0yrtX4G https://t.co/k0BV8eLcPO,Él está de acuerdo https://t.co/uAs0yrtX4G https://t.co/k0BV8eLcPO,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,TRUE,123,4474,FALSE,NA,FALSE,NA,es,FALSE,NA,42,NA,,1622302239384543200,1622302239384543234,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T18:55:32Z,1622307955793166300,1622307955793166339,"Tenéis buen gusto, culers https://t.co/v95p9XtkXi https://t.co/aFePcYFSj6","Tenéis buen gusto, culers https://t.co/v95p9XtkXi https://t.co/aFePcYFSj6",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,TRUE,122,3554,FALSE,NA,FALSE,NA,es,FALSE,NA,49,NA,,1622307227762655200,1622307227762655233,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T18:51:29Z,1622306935344169e3,1622306935344168968,Gana por mayoría https://t.co/uFUFr8Psta https://t.co/frWO9XJplB,Gana por mayoría https://t.co/uFUFr8Psta https://t.co/frWO9XJplB,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,TRUE,158,4628,FALSE,NA,FALSE,NA,es,FALSE,NA,40,NA,,1622302287988154400,1622302287988154373,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T18:36:39Z,1622303206058369e3,1622303206058369027,Nuestro XI #BarçaSevilla https://t.co/Kq3OfYDXni,Nuestro XI #BarçaSevilla https://t.co/Kq3OfYDXni,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,722,9315,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T18:23:48Z,1622299969121140700,1622299969121140736,¿Qué outfit es más TOP? https://t.co/Uyz2f1icJc,¿Qué outfit es más TOP? https://t.co/Uyz2f1icJc,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,509,11928,FALSE,NA,FALSE,NA,es,FALSE,NA,23,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T18:01:00Z,1622294233976635400,1622294233976635396,"Volvemos al azulgrana 🔵🔴 
+#BarçaSevilla https://t.co/tvx6CqASgX","Volvemos al azulgrana 🔵🔴 
+#BarçaSevilla https://t.co/tvx6CqASgX",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,146,2158,FALSE,NA,FALSE,NA,es,FALSE,NA,39,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T17:39:09Z,1622288731926417400,1622288731926417410,Nuestro templo está preparado https://t.co/oB9toQjhn2,Nuestro templo está preparado https://t.co/oB9toQjhn2,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,154,2845,FALSE,NA,FALSE,NA,es,FALSE,NA,29,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T14:01:05Z,1622233855238217700,1622233855238217730,"Illa, illa, illaa... Maravilla de Villa contra el Sevilla https://t.co/OAwXCwFLw1","Illa, illa, illaa... Maravilla de Villa contra el Sevilla https://t.co/OAwXCwFLw1",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,158,3301,FALSE,NA,FALSE,NA,ca,FALSE,NA,57,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T14:01:02Z,1622233841631989800,1622233841631989761,"La rutina de Leo 
+#BarçaSevilla https://t.co/rd9MLcSpD0","La rutina de Leo 
+#BarçaSevilla https://t.co/rd9MLcSpD0",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,123,2610,FALSE,NA,FALSE,NA,es,FALSE,NA,31,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T12:16:14Z,1622207469563814e3,1622207469563813889,"Dejó sentados a dos rivales. ¡DEJÓ SENTADOS A DOS RIVALES!
+#LaLigaHighlights https://t.co/iW41M2mQDa","Dejó sentados a dos rivales. ¡DEJÓ SENTADOS A DOS RIVALES!
+#LaLigaHighlights https://t.co/iW41M2mQDa",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,240,3304,FALSE,NA,FALSE,NA,es,FALSE,NA,76,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T11:16:07Z,1622192341967683600,1622192341967683584,💥💥💥 Hoy se cumplen 12 años de este hat-trick de Messi contra el Atleti https://t.co/BEGNMcGNaa,💥💥💥 Hoy se cumplen 12 años de este hat-trick de Messi contra el Atleti https://t.co/BEGNMcGNaa,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,236,3587,FALSE,NA,FALSE,NA,es,FALSE,NA,70,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T10:00:00Z,1622173186489225200,1622173186489225216,"𝐏𝐑𝐄𝐕𝐈𝐀 | #BarçaSevilla
+
+Seguir con el ritmo victorioso en el Spotify Camp Nou","𝐏𝐑𝐄𝐕𝐈𝐀 | #BarçaSevilla
+
+Seguir con el ritmo victorioso en el Spotify Camp Nou",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,86,1999,FALSE,NA,FALSE,NA,es,NA,NA,77,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T09:00:01Z,1622158090287317e3,1622158090287316992,𝐍𝐎𝐂𝐇𝐄 𝐃𝐄 𝐅𝐔́𝐓𝐁𝐎𝐋 https://t.co/w28xQcW3Ye,𝐍𝐎𝐂𝐇𝐄 𝐃𝐄 𝐅𝐔́𝐓𝐁𝐎𝐋 https://t.co/w28xQcW3Ye,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,660,10527,FALSE,NA,FALSE,NA,es,FALSE,NA,16,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T08:01:06Z,1622143262948573200,1622143262948573184,"G⚽L DEL DÍA
+🎁 Feliz cumpleaños, Ney! 🤹‍♂️
+🇧🇷 @neymarjr https://t.co/SiIWbKamFv","G⚽L DEL DÍA
+🎁 Feliz cumpleaños, Ney! 🤹‍♂️
+🇧🇷 @neymarjr https://t.co/SiIWbKamFv",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,997,10873,FALSE,NA,FALSE,NA,es,FALSE,NA,54,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T03:09:00Z,1622069752318279700,1622069752318279685,𝓡aphinha https://t.co/Vuw7alqcng,𝓡aphinha https://t.co/Vuw7alqcng,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,286,10683,FALSE,NA,FALSE,NA,en,FALSE,NA,8,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T02:01:03Z,1622052653701251e3,1622052653701251073,Creemos (solo creemos) que ganaron los de amarillo https://t.co/ACE4eNNYgH,Creemos (solo creemos) que ganaron los de amarillo https://t.co/ACE4eNNYgH,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,100,1908,FALSE,NA,FALSE,NA,es,FALSE,NA,50,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T01:00:17Z,1622037359612100600,1622037359612100608,"𝘾𝙪𝙡𝙚𝙧𝙨, es turno del #BarçaSevilla 
+
+¿Desde qué parte del mundo seguiréis el partido? https://t.co/t7gmUlzYK1","𝘾𝙪𝙡𝙚𝙧𝙨, es turno del #BarçaSevilla 
+
+¿Desde qué parte del mundo seguiréis el partido? https://t.co/t7gmUlzYK1",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,118,2306,FALSE,NA,FALSE,NA,es,FALSE,NA,85,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-05T00:01:06Z,1622022465089163300,1622022465089163264,Pecholata https://t.co/GDKAhnlvjh,Pecholata https://t.co/GDKAhnlvjh,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,125,4770,FALSE,NA,FALSE,NA,es,FALSE,NA,9,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T22:06:00Z,1621993499712438300,1621993499712438273,El líder https://t.co/SYsCdxMXv6,El líder https://t.co/SYsCdxMXv6,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,297,7143,FALSE,NA,FALSE,NA,es,FALSE,NA,8,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T21:31:02Z,1621984701782151200,1621984701782151234,Mago del balón https://t.co/NTqLsQPztA,Mago del balón https://t.co/NTqLsQPztA,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,91,2138,FALSE,NA,FALSE,NA,es,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T21:30:58Z,1621984684291854300,1621984684291854338,💛👕 Pedri os desa un buen fin de semana 🫶 https://t.co/gdwVMC6zmr,💛👕 Pedri os desa un buen fin de semana 🫶 https://t.co/gdwVMC6zmr,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,181,3306,FALSE,NA,FALSE,NA,es,FALSE,NA,40,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T20:29:00Z,1621969089173356500,1621969089173356544,𝑮𝑶𝑳𝑫𝑬𝑵 𝑩𝟔𝒀 https://t.co/2Xr7SyyiSi,𝑮𝑶𝑳𝑫𝑬𝑵 𝑩𝟔𝒀 https://t.co/2Xr7SyyiSi,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,834,18784,FALSE,NA,FALSE,NA,en,FALSE,NA,10,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T19:46:58Z,1621958511629320200,1621958511629320193,Cuando fallas... y no te gusta https://t.co/sDaQm2M5A8,Cuando fallas... y no te gusta https://t.co/sDaQm2M5A8,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,122,2770,FALSE,NA,FALSE,NA,es,FALSE,NA,30,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T18:45:57Z,1621943157167456300,1621943157167456258,"¿De quién son?
+
+Pista: La bandera https://t.co/8G1UflRGvI","¿De quién son?
+
+Pista: La bandera https://t.co/8G1UflRGvI",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,100,3320,FALSE,NA,FALSE,NA,es,FALSE,NA,33,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T18:00:00Z,1621931593010131e3,1621931593010130944,𝐒𝐓𝐎𝐏 https://t.co/QKHcf6aA6N,𝐒𝐓𝐎𝐏 https://t.co/QKHcf6aA6N,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,230,7417,FALSE,NA,FALSE,NA,en,FALSE,NA,4,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T16:37:00Z,1621910704352526300,1621910704352526339,Un karateca en el equipo 🥋. ¿Quién es? https://t.co/JLB1xvjhAs,Un karateca en el equipo 🥋. ¿Quién es? https://t.co/JLB1xvjhAs,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,154,7078,FALSE,NA,FALSE,NA,es,FALSE,NA,38,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T15:00:01Z,1621886297681047600,1621886297681047552,LE✌✌ANDOWSKI https://t.co/PvsUnJply0,LE✌✌ANDOWSKI https://t.co/PvsUnJply0,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,329,10202,FALSE,NA,FALSE,NA,es,FALSE,NA,12,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T14:32:46Z,1621879442212626400,1621879442212626433,"En el Día Mundial contra el Cáncer queremos enviar mucha fuerza y ​​ánimos a todas aquellas personas que luchan por superar la enfermedad, así como a sus familias","En el Día Mundial contra el Cáncer queremos enviar mucha fuerza y ​​ánimos a todas aquellas personas que luchan por superar la enfermedad, así como a sus familias",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,668,8040,FALSE,NA,FALSE,NA,es,NA,NA,162,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T13:38:59Z,1621865904979026e3,1621865904979025921,¿Truco o magia? 🎩🪄 https://t.co/CcysOPXEDA,¿Truco o magia? 🎩🪄 https://t.co/CcysOPXEDA,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,397,8796,FALSE,NA,FALSE,NA,pt,FALSE,NA,18,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T12:17:00Z,1621845275210809300,1621845275210809345,"🔊 Xavi: ""Tenemos que tener paciencia con Ansu. Tengo mucha confianza en él"" https://t.co/F1l7Pt6mKl","🔊 Xavi: ""Tenemos que tener paciencia con Ansu. Tengo mucha confianza en él"" https://t.co/F1l7Pt6mKl",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,134,2590,FALSE,NA,FALSE,NA,es,FALSE,NA,75,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T12:12:40Z,1621844182393315300,1621844182393315330,"🗣 Xavi: ""Estamos en un buen momento y hay que darle continuidad""
+
+📺 EN DIRECTO: https://t.co/dR9rBHewOI https://t.co/8cZSTcmMM6","🗣 Xavi: ""Estamos en un buen momento y hay que darle continuidad""
+
+📺 EN DIRECTO: https://t.co/dR9rBHewOI https://t.co/8cZSTcmMM6",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,103,2315,FALSE,NA,FALSE,NA,es,FALSE,NA,103,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T11:58:39Z,1621840658431463400,1621840658431463425,🚨  𝗖𝗢𝗡𝗩𝗢𝗖𝗔𝗧𝗢𝗥𝗜𝗔 🚨 #BarçaSevilla https://t.co/pI8oa4gIsQ,🚨  𝗖𝗢𝗡𝗩𝗢𝗖𝗔𝗧𝗢𝗥𝗜𝗔 🚨 #BarçaSevilla https://t.co/pI8oa4gIsQ,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,396,8693,FALSE,NA,FALSE,NA,pt,FALSE,NA,31,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T10:33:10Z,1621819145221292e3,1621819145221292032,Punto para los de azul marino 💙 https://t.co/mVoCuwd4dN,Punto para los de azul marino 💙 https://t.co/mVoCuwd4dN,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,152,3196,FALSE,NA,FALSE,NA,es,FALSE,NA,31,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-04T10:19:33Z,1621815716075737e3,1621815716075737089,"📍 EN DIRECTO | Sigue los primeros 15 minutos del entrenamiento previo al #BarçaSevilla
+
+🔗 https://t.co/dR9rBHewOI https://t.co/NKSiq1H9VN","📍 EN DIRECTO | Sigue los primeros 15 minutos del entrenamiento previo al #BarçaSevilla
+
+🔗 https://t.co/dR9rBHewOI https://t.co/NKSiq1H9VN",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,118,2863,FALSE,NA,FALSE,NA,es,FALSE,NA,113,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T22:56:55Z,1621643927643164700,1621643927643164675,#OTD Los últimos 5 minutos de aquel final épico en Granada https://t.co/X0bRmR9CmF,#OTD Los últimos 5 minutos de aquel final épico en Granada https://t.co/X0bRmR9CmF,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,394,6725,FALSE,NA,FALSE,NA,es,FALSE,NA,58,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T19:30:00Z,1621591853832224800,1621591853832224775,¡Culer! No te puedes perder esto:,¡Culer! No te puedes perder esto:,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,75,2041,FALSE,NA,FALSE,NA,es,NA,NA,33,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T18:17:46Z,1621573678394736600,1621573678394736642,👏👏👏 https://t.co/sPzzKkIACq,👏👏👏 https://t.co/sPzzKkIACq,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,TRUE,140,5566,FALSE,NA,FALSE,NA,art,FALSE,NA,3,NA,,1621538643289464800,1621538643289464832,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T18:01:12Z,1621569505934688300,1621569505934688256,"📌 Próximo reto en la Liga: #BarçaSevilla
+
+🗺 Consulta la guía para seguir el encuentro 👇🏻
+
+https://t.co/v6TSa5ol8p","📌 Próximo reto en la Liga: #BarçaSevilla
+
+🗺 Consulta la guía para seguir el encuentro 👇🏻
+
+https://t.co/v6TSa5ol8p",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,48,1026,FALSE,NA,FALSE,NA,es,FALSE,NA,113,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T17:00:03Z,1.6215541199356641e+18,1621554119935664129,"Hace una semana...
+
+Estrenamos la 4.ª equipación 💛","Hace una semana...
+
+Estrenamos la 4.ª equipación 💛",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,146,4852,FALSE,NA,FALSE,NA,es,NA,NA,50,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T13:01:08Z,1621493993237348400,1621493993237348352,𝐓𝐮́ 𝐞𝐫𝐞𝐬 𝐞𝐥 𝐁𝐚𝐫𝐜̧𝐚 💙❤️ https://t.co/GsVBJBVYga,𝐓𝐮́ 𝐞𝐫𝐞𝐬 𝐞𝐥 𝐁𝐚𝐫𝐜̧𝐚 💙❤️ https://t.co/GsVBJBVYga,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,2272,13843,FALSE,NA,FALSE,NA,es,FALSE,NA,22,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T12:16:58Z,1621482877098643500,1621482877098643457,"𝑼𝑵𝑨 𝑪𝑶𝑷𝑨 𝑬́𝑷𝑰𝑪𝑨
+Hoy se cumplen 2 años del partido de Granada https://t.co/kNOHXWaQ0Y","𝑼𝑵𝑨 𝑪𝑶𝑷𝑨 𝑬́𝑷𝑰𝑪𝑨
+Hoy se cumplen 2 años del partido de Granada https://t.co/kNOHXWaQ0Y",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,191,4607,FALSE,NA,FALSE,NA,es,FALSE,NA,60,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T10:30:01Z,1621455961381634e3,1621455961381634049,"𝗚𝗼𝗹𝗲𝗮𝗱𝗼𝗿 𝗥𝗮𝗽𝗵𝗶𝗻𝗵𝗮 𝗮 𝗱𝗼𝗺𝗶𝗰𝗶𝗹𝗶𝗼
+
+✅ Sevilla (2)
+✅ Ceuta
+✅ Pamplona
+✅ Alicante","𝗚𝗼𝗹𝗲𝗮𝗱𝗼𝗿 𝗥𝗮𝗽𝗵𝗶𝗻𝗵𝗮 𝗮 𝗱𝗼𝗺𝗶𝗰𝗶𝗹𝗶𝗼
+
+✅ Sevilla (2)
+✅ Ceuta
+✅ Pamplona
+✅ Alicante",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,153,4654,FALSE,NA,FALSE,NA,pt,NA,NA,74,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T09:01:11Z,1621433609084182500,1621433609084182528,"Victoria y 50 puntos en La Liga. 😎
+
+#LaLigaHighlights https://t.co/UEY5OLEHLx","Victoria y 50 puntos en La Liga. 😎
+
+#LaLigaHighlights https://t.co/UEY5OLEHLx",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,161,3519,FALSE,NA,FALSE,NA,es,FALSE,NA,53,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T08:01:02Z,1621418468707901400,1621418468707901441,"G⚽L DEL DÍA
+🪄 La magia de Zlatan... 🔝
+@Ibra_official 🇸🇪 https://t.co/kUMmgg2gbl","G⚽L DEL DÍA
+🪄 La magia de Zlatan... 🔝
+@Ibra_official 🇸🇪 https://t.co/kUMmgg2gbl",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,101,2247,FALSE,NA,FALSE,NA,es,FALSE,NA,55,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-03T00:01:28Z,1621297785499799600,1621297785499799552,"🔊 Nuevo entreno, nuevo día, mismos líderes 💙❤️ https://t.co/JngRT0cvxn","🔊 Nuevo entreno, nuevo día, mismos líderes 💙❤️ https://t.co/JngRT0cvxn",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,176,4762,FALSE,NA,FALSE,NA,es,FALSE,NA,46,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T22:30:00Z,1621274766693879800,1621274766693879809,"🔥 DEFENSA 🔥
+
+🔐 en @LaLiga 
+19 partidos, 14 porterías a cero, 7 goles en contra https://t.co/N5JQo6nw3J","🔥 DEFENSA 🔥
+
+🔐 en @LaLiga 
+19 partidos, 14 porterías a cero, 7 goles en contra https://t.co/N5JQo6nw3J",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,395,8103,FALSE,NA,FALSE,NA,es,FALSE,NA,78,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T22:00:00Z,1621267217131225e3,1621267217131225088,Sr. Ter Stegen https://t.co/nau0mwisZn,Sr. Ter Stegen https://t.co/nau0mwisZn,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,423,16522,FALSE,NA,FALSE,NA,nl,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T21:00:01Z,1621252120006774800,1621252120006774785,PT🔥 https://t.co/r97ahADMTY,PT🔥 https://t.co/r97ahADMTY,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,147,4804,FALSE,NA,FALSE,NA,und,FALSE,NA,3,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T20:00:02Z,1621237024001822700,1621237024001822723,👀 https://t.co/LJuJQIpe6M,👀 https://t.co/LJuJQIpe6M,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,427,10673,FALSE,NA,FALSE,NA,und,FALSE,NA,1,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T19:00:01Z,1621221919600296e3,1621221919600295936,Mucho fútbol en una foto https://t.co/ZzZNPsEB11,Mucho fútbol en una foto https://t.co/ZzZNPsEB11,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,425,11590,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T18:01:03Z,1621207082199302100,1621207082199302148,"𝐐&amp;𝐀 𝐍𝐄𝐖 𝐄𝐑𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 😎
+
+Si todavía no has visto el documental... 
+
+Lo tienes disponible en @PrimeVideoES https://t.co/QfKmLkBaKK","𝐐&amp;𝐀 𝐍𝐄𝐖 𝐄𝐑𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 😎
+
+Si todavía no has visto el documental... 
+
+Lo tienes disponible en @PrimeVideoES https://t.co/QfKmLkBaKK",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,68,1305,FALSE,NA,FALSE,NA,es,FALSE,NA,107,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T17:45:32Z,1621203176434147300,1621203176434147329,👏 La mejor primera vuelta de la historia: ¡sólo 7️⃣ goles encajados!,👏 La mejor primera vuelta de la historia: ¡sólo 7️⃣ goles encajados!,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,268,5755,FALSE,NA,FALSE,NA,es,NA,NA,68,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T17:30:12Z,1621199318819512300,1621199318819512322,+ que un Club 💙❤️ https://t.co/lilWeDchPY,+ que un Club 💙❤️ https://t.co/lilWeDchPY,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,296,5359,FALSE,NA,FALSE,NA,es,FALSE,NA,17,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T17:19:17Z,1621196571483177e3,1621196571483176961,Ya la tenemos en el Museo 🏆😍 https://t.co/lWBstzUE2L,Ya la tenemos en el Museo 🏆😍 https://t.co/lWBstzUE2L,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,394,8391,FALSE,NA,FALSE,NA,es,FALSE,NA,28,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T16:00:58Z,1621176862088077300,1621176862088077312,"💙 ¡Feliz cumpleaños, @3gerardpique! ❤️
+
+⏳ @fallinginsand https://t.co/wxvIou1fwu","💙 ¡Feliz cumpleaños, @3gerardpique! ❤️
+
+⏳ @fallinginsand https://t.co/wxvIou1fwu",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,300,4989,FALSE,NA,FALSE,NA,es,FALSE,NA,56,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T15:30:00Z,1621169069398397e3,1621169069398396931,Entreno de recuperación después de una victoria 😏 https://t.co/cQ7R5yJC7u,Entreno de recuperación después de una victoria 😏 https://t.co/cQ7R5yJC7u,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,154,4708,FALSE,NA,FALSE,NA,es,FALSE,NA,49,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T14:45:35Z,1621157891859415e3,1621157891859415042,¿Qué os parece la nueva equipación de entrenamiento?  👀,¿Qué os parece la nueva equipación de entrenamiento?  👀,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,116,4311,FALSE,NA,FALSE,NA,es,NA,NA,55,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T13:00:03Z,1621131331399979e3,1621131331399979010,"Eres más de las canciones que escucha Pedri o de las de Alexia? 🎧
+
+Comenta qué canciones de sus Matchday playlists de @spotifyspain prefieres 👀","Eres más de las canciones que escucha Pedri o de las de Alexia? 🎧
+
+Comenta qué canciones de sus Matchday playlists de @spotifyspain prefieres 👀",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,65,1578,FALSE,NA,FALSE,NA,es,NA,NA,143,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T12:00:01Z,1621116222732484600,1621116222732484611,Betis 🔚 🔜 Sevilla,Betis 🔚 🔜 Sevilla,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,176,5376,FALSE,NA,FALSE,NA,tr,NA,NA,17,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T11:00:00Z,1621101122436882400,1621101122436882432,"-Ronald Araujo a Torre de control: ""Solicitando permiso para despegar"" ✈️ https://t.co/aBpD07RksU","-Ronald Araujo a Torre de control: ""Solicitando permiso para despegar"" ✈️ https://t.co/aBpD07RksU",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,226,6154,FALSE,NA,FALSE,NA,es,FALSE,NA,73,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T10:32:00Z,1621094076283080700,1621094076283080704,Así celebró Xavi el gol de Lewandowski en el Benito Villamarín 🥳 https://t.co/PslM9zG5F3,Así celebró Xavi el gol de Lewandowski en el Benito Villamarín 🥳 https://t.co/PslM9zG5F3,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,200,4709,FALSE,NA,FALSE,NA,es,FALSE,NA,64,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T10:00:02Z,1621086031507243e3,1621086031507243010,"Te queremos mucho, Lewy ❤️ https://t.co/GXuRC8h7Fn","Te queremos mucho, Lewy ❤️ https://t.co/GXuRC8h7Fn",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,524,14067,FALSE,NA,FALSE,NA,es,FALSE,NA,26,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T09:00:01Z,1621070925448843300,1621070925448843264,once 🫶 https://t.co/6IFmvvm01K,once 🫶 https://t.co/6IFmvvm01K,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,591,16412,FALSE,NA,FALSE,NA,en,FALSE,NA,6,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T08:01:03Z,1621056088366878700,1621056088366878721,"G⚽L DEL DÍA
+🎂 Feliz cumpleaños, @3gerardpique 💙❤️ https://t.co/HcysTspq7P","G⚽L DEL DÍA
+🎂 Feliz cumpleaños, @3gerardpique 💙❤️ https://t.co/HcysTspq7P",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,335,5085,FALSE,NA,FALSE,NA,es,FALSE,NA,49,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T03:00:00Z,1620980326595002400,1620980326595002368,⚓️⚽️ https://t.co/r2iWwG6gnJ,⚓️⚽️ https://t.co/r2iWwG6gnJ,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,148,5204,FALSE,NA,FALSE,NA,und,FALSE,NA,4,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T02:00:00Z,1620965226525999e3,1620965226525999109,La reacción de Lewy cuando te compras su camiseta 🤟,La reacción de Lewy cuando te compras su camiseta 🤟,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,115,4260,FALSE,NA,FALSE,NA,es,NA,NA,51,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T01:30:00Z,1620957675558240300,1620957675558240257,7 goles en 19 partidos 🤯 https://t.co/gpoBaQMlP8,7 goles en 19 partidos 🤯 https://t.co/gpoBaQMlP8,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,386,12634,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T01:10:00Z,1620952641420361700,1620952641420361730,Una sola foto de Balde no era suficiente💥 https://t.co/N2jh0WCYBw,Una sola foto de Balde no era suficiente💥 https://t.co/N2jh0WCYBw,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,241,4641,FALSE,NA,FALSE,NA,es,FALSE,NA,41,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T00:40:00Z,1620945091476201500,1620945091476201473,𝗚𝗢𝗟𝗘𝗔𝗗𝗢𝗢𝗢𝗢𝗥 🗣️ https://t.co/qFv7vonWYi,𝗚𝗢𝗟𝗘𝗔𝗗𝗢𝗢𝗢𝗢𝗥 🗣️ https://t.co/qFv7vonWYi,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,355,9925,FALSE,NA,FALSE,NA,es,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T00:10:00Z,1620937542005624800,1620937542005624834,El líder de los líderes https://t.co/ZeRJSIuD3r,El líder de los líderes https://t.co/ZeRJSIuD3r,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,313,5991,FALSE,NA,FALSE,NA,es,FALSE,NA,23,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-02T00:00:56Z,1620935259742212e3,1620935259742212102,¡Se duerme mejor tras marcar! Bona nit culers‼️🥰 https://t.co/tE3qwQFODo,¡Se duerme mejor tras marcar! Bona nit culers‼️🥰 https://t.co/tE3qwQFODo,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,196,4014,FALSE,NA,FALSE,NA,es,FALSE,NA,48,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T23:45:00Z,1620931250394628e3,1620931250394628096,El centrocampista total 🪄 https://t.co/lBl56P3CKP,El centrocampista total 🪄 https://t.co/lBl56P3CKP,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,631,16130,FALSE,NA,FALSE,NA,ca,FALSE,NA,25,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T23:26:19Z,1620926548227534800,1620926548227534848,Este equipo 🫶❤️‍🔥 https://t.co/RANXhVTFcc,Este equipo 🫶❤️‍🔥 https://t.co/RANXhVTFcc,FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,393,6706,FALSE,NA,FALSE,NA,es,FALSE,NA,41,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T23:10:00Z,1620922442549022700,1620922442549022723,¡𝑩𝑨𝑨𝑨𝑨𝑹𝑪̧𝑨𝑨𝑨! 💙❤️ https://t.co/l1Wy0zi9MI,¡𝑩𝑨𝑨𝑨𝑨𝑹𝑪̧𝑨𝑨𝑨! 💙❤️ https://t.co/l1Wy0zi9MI,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,448,7574,FALSE,NA,FALSE,NA,es,FALSE,NA,17,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T22:45:10Z,1.6209161934974239e+18,1620916193497423874,"📝 CRÓNICA
+#BetisBarça
+https://t.co/ouTPKAMxmD","📝 CRÓNICA
+#BetisBarça
+https://t.co/ouTPKAMxmD",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,85,1820,FALSE,NA,FALSE,NA,es,FALSE,NA,45,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T22:35:46Z,1620913830346850300,1620913830346850305,"¡Raphinha baila flamenco! 🕺
+
+Gol en el Sánchez-Pizjuán 🔴⚪️
+Gol en el Benito Villamarín 🟢⚪️ https://t.co/2jCaEVSYae","¡Raphinha baila flamenco! 🕺
+
+Gol en el Sánchez-Pizjuán 🔴⚪️
+Gol en el Benito Villamarín 🟢⚪️ https://t.co/2jCaEVSYae",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,226,4665,FALSE,NA,FALSE,NA,es,FALSE,NA,90,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T22:27:41Z,1620911792758079500,1620911792758079488,Sigue el post partido en directo 🔴🖥,Sigue el post partido en directo 🔴🖥,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,53,1196,FALSE,NA,FALSE,NA,es,NA,NA,35,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T22:19:07Z,1620909640446795800,1620909640446795777,¿Alguien dudaba de que iba a marcar? 😇 https://t.co/WoiuUsDSN3,¿Alguien dudaba de que iba a marcar? 😇 https://t.co/WoiuUsDSN3,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,266,7119,FALSE,NA,FALSE,NA,es,FALSE,NA,38,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T22:10:01Z,1620907349786640400,1620907349786640394,Don Alejandro Balde MVP 🏃‍♂️💨 https://t.co/pG1aQQIltB,Don Alejandro Balde MVP 🏃‍♂️💨 https://t.co/pG1aQQIltB,FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,929,24562,FALSE,NA,FALSE,NA,ht,FALSE,NA,29,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T22:00:01Z,1620904832751255600,1620904832751255552,50 puntos en una vuelta 🔝💪 https://t.co/rCc95uj8ZW,50 puntos en una vuelta 🔝💪 https://t.co/rCc95uj8ZW,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1569,21756,FALSE,NA,FALSE,NA,es,FALSE,NA,26,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:52:05Z,1620902836367237e3,1620902836367237120,𝐍𝐮𝐞𝐯𝐚 𝐯𝐢𝐜𝐭𝐨𝐫𝐢𝐚 𝐞𝐧 𝐋𝐢𝐠𝐚 ✅ https://t.co/AW20gF8DIB,𝐍𝐮𝐞𝐯𝐚 𝐯𝐢𝐜𝐭𝐨𝐫𝐢𝐚 𝐞𝐧 𝐋𝐢𝐠𝐚 ✅ https://t.co/AW20gF8DIB,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,2475,32514,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:47:25Z,1620901659277762600,1620901659277762570,"🔄 Nuevo cambio en el Barça 
+
+🔼 Kessie
+🔽 Pedri https://t.co/XP5ZxJwSCW","🔄 Nuevo cambio en el Barça 
+
+🔼 Kessie
+🔽 Pedri https://t.co/XP5ZxJwSCW",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,65,2058,FALSE,NA,FALSE,NA,es,FALSE,NA,45,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:43:12Z,1620900600513798100,1620900600513798167,"Gol del Betis. Gol de Kounde en propia puerta (1-2, min. 85)","Gol del Betis. Gol de Kounde en propia puerta (1-2, min. 85)",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,101,5771,FALSE,NA,FALSE,NA,es,NA,NA,60,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:41:32Z,1620900179913187300,1620900179913187348,"🔄 Cambios en el Barça
+
+🔼 Ansu Fati y Ferran 
+🔽 Raphinha y Gavi 
+
+#BetisBarça https://t.co/PLKnEeuVIP","🔄 Cambios en el Barça
+
+🔼 Ansu Fati y Ferran 
+🔽 Raphinha y Gavi 
+
+#BetisBarça https://t.co/PLKnEeuVIP",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,72,1425,FALSE,NA,FALSE,NA,es,FALSE,NA,76,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:39:54Z,1620899770242932700,1620899770242932745,Araujo también asiste https://t.co/VkGxcgMNHm,Araujo también asiste https://t.co/VkGxcgMNHm,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,201,4977,FALSE,NA,FALSE,NA,es,FALSE,NA,21,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:38:22Z,1620899385168076800,1620899385168076812,"😍 𝐋𝐄𝐖𝐀𝐍𝐃𝐎𝐖𝐒𝐊𝐈 (0-2, min. 79) https://t.co/XskrNOiqlG","😍 𝐋𝐄𝐖𝐀𝐍𝐃𝐎𝐖𝐒𝐊𝐈 (0-2, min. 79) https://t.co/XskrNOiqlG",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,269,2080,FALSE,NA,FALSE,NA,pl,FALSE,NA,28,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:37:29Z,1620899160621817900,1620899160621817872,El Pichichi de @LaLiga está de vuelta https://t.co/VzkDL6qnXW,El Pichichi de @LaLiga está de vuelta https://t.co/VzkDL6qnXW,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,778,11820,FALSE,NA,FALSE,NA,es,FALSE,NA,37,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:27:02Z,1620896532596678700,1620896532596678656,El goleador de la noche https://t.co/1Ira5iSsZ4,El goleador de la noche https://t.co/1Ira5iSsZ4,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,197,3637,FALSE,NA,FALSE,NA,es,FALSE,NA,23,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:24:49Z,1620895974909517800,1620895974909517839,💫 𝐁🅰️𝐋𝐃𝐄 https://t.co/0TISB5LYWA,💫 𝐁🅰️𝐋𝐃𝐄 https://t.co/0TISB5LYWA,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,346,5813,FALSE,NA,FALSE,NA,da,FALSE,NA,8,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:23:31Z,1620895645824426e3,1620895645824425992,"💛 !𝗥𝗔𝗣𝗛𝗜𝗡𝗛𝗔! (0-1, min. 64) 💛 https://t.co/wm4InrRBSL","💛 !𝗥𝗔𝗣𝗛𝗜𝗡𝗛𝗔! (0-1, min. 64) 💛 https://t.co/wm4InrRBSL",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,312,2624,FALSE,NA,FALSE,NA,en,FALSE,NA,29,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:22:15Z,1620895326671446e3,1620895326671446037,🇧🇷,🇧🇷,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,261,5406,FALSE,NA,FALSE,NA,art,NA,NA,2,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:07:27Z,1620891604604133400,1620891604604133383,🚀 https://t.co/y4aadUF2Kh,🚀 https://t.co/y4aadUF2Kh,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,161,3971,FALSE,NA,FALSE,NA,und,FALSE,NA,1,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:05:57Z,1620891224029773800,1620891224029773824,Liderando el ataque https://t.co/LDHw33oG8d,Liderando el ataque https://t.co/LDHw33oG8d,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,92,1806,FALSE,NA,FALSE,NA,es,FALSE,NA,19,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T21:02:38Z,1620890389300256800,1620890389300256769,"▶️ Se reanuda el #BetisBarça
+
+¡Vamos, 𝘤𝘶𝘭𝘦𝘳𝘴! https://t.co/7k14ilpuPc","▶️ Se reanuda el #BetisBarça
+
+¡Vamos, 𝘤𝘶𝘭𝘦𝘳𝘴! https://t.co/7k14ilpuPc",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,68,1274,FALSE,NA,FALSE,NA,es,FALSE,NA,45,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T20:54:47Z,1620888417180721200,1620888417180721152,La simbología de esto es increíble ✨ https://t.co/jjsiqIht6t,La simbología de esto es increíble ✨ https://t.co/jjsiqIht6t,FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1097,12655,FALSE,NA,FALSE,NA,es,FALSE,NA,36,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T20:47:17Z,1620886528019898400,1620886528019898369,⏸ Sin goles en el #BetisBarça https://t.co/Uocf1rzqPR,⏸ Sin goles en el #BetisBarça https://t.co/Uocf1rzqPR,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,76,2188,FALSE,NA,FALSE,NA,es,FALSE,NA,29,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T20:42:00Z,1620885198299701200,1620885198299701253,El nuevo 6️⃣ dorado https://t.co/sREzR5QY0V,El nuevo 6️⃣ dorado https://t.co/sREzR5QY0V,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,374,6257,FALSE,NA,FALSE,NA,es,FALSE,NA,19,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T20:35:56Z,1620883672663564300,1620883672663564297,😨 Gol anulado a Raphinha por fuera de juego https://t.co/6OG2o5tF7U,😨 Gol anulado a Raphinha por fuera de juego https://t.co/6OG2o5tF7U,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,106,4228,FALSE,NA,FALSE,NA,es,FALSE,NA,43,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T20:20:39Z,1620879824620249e3,1620879824620249088,🤩 𝗣𝗘𝗗𝗥𝗜 https://t.co/AzhVLJ8nJR,🤩 𝗣𝗘𝗗𝗥𝗜 https://t.co/AzhVLJ8nJR,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,475,7980,FALSE,NA,FALSE,NA,es,FALSE,NA,7,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T20:01:47Z,1620875076361982e3,1620875076361981972,"📌 #BetisBarça
+
+¡Vamos, 𝙘𝙪𝙡𝙚𝙧𝙨! 💛","📌 #BetisBarça
+
+¡Vamos, 𝙘𝙪𝙡𝙚𝙧𝙨! 💛",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,89,1224,FALSE,NA,FALSE,NA,es,NA,NA,32,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:54:56Z,1620873353346285600,1620873353346285569,Todos juntos 🔵🔴 https://t.co/1jf4K03GV1,Todos juntos 🔵🔴 https://t.co/1jf4K03GV1,FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,142,2519,FALSE,NA,FALSE,NA,es,FALSE,NA,15,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:52:16Z,1620872684128145400,1620872684128145408,Parece que alguien está motivado 😬 https://t.co/AVwl2Rn2KF,Parece que alguien está motivado 😬 https://t.co/AVwl2Rn2KF,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,93,1710,FALSE,NA,FALSE,NA,es,FALSE,NA,34,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:48:23Z,1620871703172882400,1620871703172882432,🔥 robert 🔥 https://t.co/e4T5kduect,🔥 robert 🔥 https://t.co/e4T5kduect,FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,118,3033,FALSE,NA,FALSE,NA,in,FALSE,NA,10,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:46:02Z,1620871113763917800,1620871113763917827,Tu 2️⃣1️⃣ favorito,Tu 2️⃣1️⃣ favorito,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,90,2200,FALSE,NA,FALSE,NA,en,NA,NA,18,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:42:56Z,1620870334822875100,1620870334822875136,"¡Vamos, equipo! 🔥 https://t.co/NZzAVopSCb","¡Vamos, equipo! 🔥 https://t.co/NZzAVopSCb",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,86,1508,FALSE,NA,FALSE,NA,es,FALSE,NA,17,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:29:56Z,1620867063844638700,1620867063844638722,🤜 @mterstegen1 🤛 https://t.co/mZnbwPjBNZ,🤜 @mterstegen1 🤛 https://t.co/mZnbwPjBNZ,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,89,1505,FALSE,NA,FALSE,NA,und,FALSE,NA,16,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:21:19Z,1620864894030516200,1620864894030516240,"El dorado siempre queda bien, sinceramente","El dorado siempre queda bien, sinceramente",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,128,2949,FALSE,NA,FALSE,NA,es,NA,NA,42,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:16:14Z,1620863616168919e3,1620863616168919040,La banda hoy será suya 🔥 https://t.co/t1N99O6N2y,La banda hoy será suya 🔥 https://t.co/t1N99O6N2y,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,124,3174,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:07:34Z,1620861432534560800,1620861432534560770,El efecto Robert Lewandowski 🤳 https://t.co/55bGdIjqlT,El efecto Robert Lewandowski 🤳 https://t.co/55bGdIjqlT,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,193,4356,FALSE,NA,FALSE,NA,es,FALSE,NA,30,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T19:02:32Z,1620860165653397500,1620860165653397504,La mirada del jefe 👁👁 https://t.co/4EMnV7WQs6,La mirada del jefe 👁👁 https://t.co/4EMnV7WQs6,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,132,3085,FALSE,NA,FALSE,NA,es,FALSE,NA,21,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T18:55:59Z,1620858517908226e3,1620858517908226104,¡Nuestra llegada al Benito Villamarín! 🏟 https://t.co/sVzGE6kFXS,¡Nuestra llegada al Benito Villamarín! 🏟 https://t.co/sVzGE6kFXS,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,76,1422,FALSE,NA,FALSE,NA,es,FALSE,NA,40,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T18:51:40Z,1620857432460099600,1620857432460099589,📍 El escenario de esta noche 🌙 https://t.co/TshNjnD30q,📍 El escenario de esta noche 🌙 https://t.co/TshNjnD30q,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,69,1448,FALSE,NA,FALSE,NA,es,FALSE,NA,30,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T18:45:20Z,1620855837022621700,1620855837022621696,"👥 𝐀𝐋𝐈𝐍𝐄𝐀𝐂𝐈𝐎́𝐍 
+
+⚽ #BetisBarça https://t.co/SIfigHgYvM","👥 𝐀𝐋𝐈𝐍𝐄𝐀𝐂𝐈𝐎́𝐍 
+
+⚽ #BetisBarça https://t.co/SIfigHgYvM",FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,635,6730,FALSE,NA,FALSE,NA,es,FALSE,NA,29,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T18:16:12Z,1620848507459338200,1620848507459338257,Barça dorado 🤩 https://t.co/wdw2WeW0f1,Barça dorado 🤩 https://t.co/wdw2WeW0f1,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,134,2596,FALSE,NA,FALSE,NA,pt,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T18:10:21Z,1620847034084499500,1620847034084499456,1/7 @RealBetis https://t.co/cx2WRCdzCJ,1/7 @RealBetis https://t.co/cx2WRCdzCJ,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,212,3827,FALSE,NA,FALSE,NA,und,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T18:07:06Z,1620846214500712400,1620846214500712448,"¿Culers, sensaciones para hoy? Anulamos mufa","¿Culers, sensaciones para hoy? Anulamos mufa",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,239,10464,FALSE,NA,FALSE,NA,es,NA,NA,44,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T16:30:12Z,1620821831279153200,1620821831279153161,"Ya puedes escuchar la historia del Barça en un podcast en Spotify
+
+Escúchalo aquí 🎧 https://t.co/ET0OSl5oHb","Ya puedes escuchar la historia del Barça en un podcast en Spotify
+
+Escúchalo aquí 🎧 https://t.co/ET0OSl5oHb",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,84,1350,FALSE,NA,FALSE,NA,es,FALSE,NA,107,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T15:32:09Z,1620807223046701e3,1620807223046701057,"El día que el Benito Villamarín se rindió a Leo Messi 🐐
+
+#LaLigaHighlights https://t.co/s7QgG8uUz8","El día que el Benito Villamarín se rindió a Leo Messi 🐐
+
+#LaLigaHighlights https://t.co/s7QgG8uUz8",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,754,8597,FALSE,NA,FALSE,NA,es,FALSE,NA,74,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T14:00:05Z,1620784052994285600,1620784052994285570,👋 ¡Hola febrero!,👋 ¡Hola febrero!,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,128,2690,FALSE,NA,FALSE,NA,es,NA,NA,16,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T13:06:02Z,1620770448714731500,1620770448714731522,Simplemente dale ❤ https://t.co/Ov5uaelOzd,Simplemente dale ❤ https://t.co/Ov5uaelOzd,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,878,13038,FALSE,NA,FALSE,NA,it,FALSE,NA,18,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T12:01:27Z,1620754198479646700,1620754198479646723,"🛬 Aterrizados 
+📍 Sevilla https://t.co/GjlzGhz01O","🛬 Aterrizados 
+📍 Sevilla https://t.co/GjlzGhz01O",FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,169,6450,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T11:10:12Z,1620741299300171800,1620741299300171776,"🐦🦉 ¿Sabías que hasta 34 especies habitan en el Spotify Camp Nou y en el Palau Blaugrana?
+
+ℹ Es por eso que el Club impulsa una guía para promover y preservar la riqueza en biodiversidad 👇 https://t.co/ZMYwa85GHR","🐦🦉 ¿Sabías que hasta 34 especies habitan en el Spotify Camp Nou y en el Palau Blaugrana?
+
+ℹ Es por eso que el Club impulsa una guía para promover y preservar la riqueza en biodiversidad 👇 https://t.co/ZMYwa85GHR",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,57,1087,FALSE,NA,FALSE,NA,es,FALSE,NA,211,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T09:58:21Z,1620723220449034200,1620723220449034240,"⚽ #BetisBarça
+📝 𝗟𝗔 𝗣𝗥𝗘𝗩𝗜𝗔 👇 https://t.co/5UIpf6qtUm","⚽ #BetisBarça
+📝 𝗟𝗔 𝗣𝗥𝗘𝗩𝗜𝗔 👇 https://t.co/5UIpf6qtUm",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,71,1545,FALSE,NA,FALSE,NA,es,FALSE,NA,51,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T09:00:33Z,1620708673352777700,1620708673352777730,Sevilla tiene un color especial https://t.co/fHqmEWHYs7,Sevilla tiene un color especial https://t.co/fHqmEWHYs7,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,371,7498,FALSE,NA,FALSE,NA,es,FALSE,NA,31,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-02-01T08:50:24Z,1620706119353237500,1620706119353237504,🚨 CONVOCATORIA 🚨 #BetisBarça https://t.co/ssc3y04Pjm,🚨 CONVOCATORIA 🚨 #BetisBarça https://t.co/ssc3y04Pjm,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,563,10433,FALSE,NA,FALSE,NA,pt,FALSE,NA,28,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T22:12:53Z,1620545683701874700,1620545683701874691,Acuerdo para el traspaso de @HectorBellerin al Sporting Clube de Portugal,Acuerdo para el traspaso de @HectorBellerin al Sporting Clube de Portugal,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,535,11661,FALSE,NA,FALSE,NA,es,NA,NA,73,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T20:05:28Z,1620513615345246200,1620513615345246214,"Los socios y socias exponen sus inquietudes sobre el traslado a Montjuïc
+
+🔗 https://t.co/nt6xo8WAS7 https://t.co/N31rCW6QwF","Los socios y socias exponen sus inquietudes sobre el traslado a Montjuïc
+
+🔗 https://t.co/nt6xo8WAS7 https://t.co/N31rCW6QwF",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,68,1519,FALSE,NA,FALSE,NA,ca,FALSE,NA,99,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T19:48:16Z,1620509288442794e3,1620509288442793984,➕ Masia ➕ Barça https://t.co/nSMA4K8te9,➕ Masia ➕ Barça https://t.co/nSMA4K8te9,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,877,15236,FALSE,NA,FALSE,NA,es,FALSE,NA,15,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T18:48:40Z,1620494289045266400,1620494289045266461,La quiero 😍,La quiero 😍,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1221,25126,FALSE,NA,FALSE,NA,es,NA,NA,11,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T17:43:22Z,1620477857020387300,1620477857020387335,Nuestro nuevo número 6️⃣ https://t.co/gzGMQkyomB,Nuestro nuevo número 6️⃣ https://t.co/gzGMQkyomB,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,2425,21530,FALSE,NA,FALSE,NA,es,FALSE,NA,24,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T17:35:54Z,1620475978215719e3,1620475978215718912,6AVI https://t.co/p9OXOpTgSF,6AVI https://t.co/p9OXOpTgSF,FALSE,,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,6424,71664,FALSE,NA,FALSE,NA,und,FALSE,NA,4,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T17:00:03Z,1620466955097350100,1620466955097350156,"🎲 𝗠𝗔𝗥𝗧𝗘𝗦 𝗗𝗘 𝗝𝗨𝗘𝗚𝗢𝗦 🎲
+
+¿Te gustan los puzles 🧩? ¡Complétalos en el menor tiempo posible!","🎲 𝗠𝗔𝗥𝗧𝗘𝗦 𝗗𝗘 𝗝𝗨𝗘𝗚𝗢𝗦 🎲
+
+¿Te gustan los puzles 🧩? ¡Complétalos en el menor tiempo posible!",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,56,1911,FALSE,NA,FALSE,NA,es,NA,NA,87,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T16:01:02Z,1620452101083041800,1620452101083041792,"La mejor manera de celebrar tus 100 partidos
+
+#LaLigaHighlights https://t.co/icgt1KnpiH","La mejor manera de celebrar tus 100 partidos
+
+#LaLigaHighlights https://t.co/icgt1KnpiH",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,124,2584,FALSE,NA,FALSE,NA,es,FALSE,NA,63,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T15:00:43Z,1620436924941967400,1620436924941967362,El mes de enero perfecto no exis... https://t.co/jDMeoG0h4F,El mes de enero perfecto no exis... https://t.co/jDMeoG0h4F,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,727,12494,FALSE,NA,FALSE,NA,es,FALSE,NA,35,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T13:24:51Z,1620412797145481200,1620412797145481216,"⏰ 𝗛𝗢𝗥𝗔𝗥𝗜𝗢𝗦 | Semifinales de la Copa
+
+Madrid - Barça
+Jueves, 2 de marzo
+21.00 horas
+
+Barça - Madrid
+Miércoles, 5 de abril
+22.00 horas
+
+#ElClásico","⏰ 𝗛𝗢𝗥𝗔𝗥𝗜𝗢𝗦 | Semifinales de la Copa
+
+Madrid - Barça
+Jueves, 2 de marzo
+21.00 horas
+
+Barça - Madrid
+Miércoles, 5 de abril
+22.00 horas
+
+#ElClásico",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,331,4048,FALSE,NA,FALSE,NA,es,NA,NA,144,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T12:46:44Z,1620403203513761800,1620403203513761793,"🤝 El Barça oficializa el acuerdo con Limak
+
+Más información 👉 https://t.co/CKd60lgRTy https://t.co/fkhGbSyCxK","🤝 El Barça oficializa el acuerdo con Limak
+
+Más información 👉 https://t.co/CKd60lgRTy https://t.co/fkhGbSyCxK",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,159,4426,FALSE,NA,FALSE,NA,es,FALSE,NA,85,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T12:34:52Z,1620400219509690400,1620400219509690368,"🗣 Xavi: ""Los interiores tienen que poblar el área y llegar. Pedri lleva ya unos cuantos goles decisivos"" https://t.co/CacXdlQsjG","🗣 Xavi: ""Los interiores tienen que poblar el área y llegar. Pedri lleva ya unos cuantos goles decisivos"" https://t.co/CacXdlQsjG",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,91,1977,FALSE,NA,FALSE,NA,es,FALSE,NA,104,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T12:31:06Z,1620399270615552e3,1620399270615552000,"🗣 Xavi: ""Robamos muchos balones en campo contrario que nos producen goles"" 💪 https://t.co/tDltewCo83","🗣 Xavi: ""Robamos muchos balones en campo contrario que nos producen goles"" 💪 https://t.co/tDltewCo83",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,86,1453,FALSE,NA,FALSE,NA,es,FALSE,NA,76,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T12:28:30Z,1620398616501227500,1620398616501227520,"🗣 Xavi: ""A nivel de juego, el objetivo es acercarse al partido que hicimos contra el Madrid en la Supercopa"" https://t.co/WKLWCfL7Wc","🗣 Xavi: ""A nivel de juego, el objetivo es acercarse al partido que hicimos contra el Madrid en la Supercopa"" https://t.co/WKLWCfL7Wc",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,94,1892,FALSE,NA,FALSE,NA,es,FALSE,NA,108,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T12:24:19Z,1620397562883629e3,1620397562883629058,"🗣 Xavi: ""La baja de Dembélé es difícil de suplir, pero entre todos intentaremos que no se note""
+
+Sigue la rueda de prensa en directo: https://t.co/dR9rBHewOI https://t.co/A0O4Mc4HyB","🗣 Xavi: ""La baja de Dembélé es difícil de suplir, pero entre todos intentaremos que no se note""
+
+Sigue la rueda de prensa en directo: https://t.co/dR9rBHewOI https://t.co/A0O4Mc4HyB",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,85,2644,FALSE,NA,FALSE,NA,es,FALSE,NA,157,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T12:01:12Z,1620391746013216800,1620391746013216768,"Comunicado del FC Barcelona sobre la inscripción de Gavi 
+
+👉 https://t.co/FUeroq54wy https://t.co/umuN4VI3La","Comunicado del FC Barcelona sobre la inscripción de Gavi 
+
+👉 https://t.co/FUeroq54wy https://t.co/umuN4VI3La",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1185,15087,FALSE,NA,FALSE,NA,es,FALSE,NA,84,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T11:01:53Z,1620376818057347e3,1620376818057347072,⚠ Se abre la venta de entradas para el partido contra el Manchester United en el Spotify Camp Nou. Las primeras 24 horas son exclusivas para socios y socias,⚠ Se abre la venta de entradas para el partido contra el Manchester United en el Spotify Camp Nou. Las primeras 24 horas son exclusivas para socios y socias,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,109,2940,FALSE,NA,FALSE,NA,es,NA,NA,156,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T10:18:18Z,1620365850665435100,1620365850665435136,"📍 EN DIRECTO | Sigue los primeros 15 minutos del entrenamiento previo al #BetisBarça
+
+🔗 https://t.co/dR9rBHewOI https://t.co/dKke3bZz6b","📍 EN DIRECTO | Sigue los primeros 15 minutos del entrenamiento previo al #BetisBarça
+
+🔗 https://t.co/dR9rBHewOI https://t.co/dKke3bZz6b",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,81,2501,FALSE,NA,FALSE,NA,es,FALSE,NA,111,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T09:01:12Z,1620346446628151300,1620346446628151296,"𝐆𝐈𝐑𝐎𝐍𝐀 0️⃣-1️⃣ 𝐁𝐀𝐑𝐂̧𝐀
+#LaLigaHighlights https://t.co/CKpASSv3wO","𝐆𝐈𝐑𝐎𝐍𝐀 0️⃣-1️⃣ 𝐁𝐀𝐑𝐂̧𝐀
+#LaLigaHighlights https://t.co/CKpASSv3wO",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,81,1838,FALSE,NA,FALSE,NA,en,FALSE,NA,39,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T08:00:58Z,1620331290334478300,1620331290334478336,"G⚽️L DEL DÍA
+🙌 Uno de los nuestros, @LUISENRIQUE21 
+🆚 @RealBetis https://t.co/hpGOD9mNzd","G⚽️L DEL DÍA
+🙌 Uno de los nuestros, @LUISENRIQUE21 
+🆚 @RealBetis https://t.co/hpGOD9mNzd",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,100,1987,FALSE,NA,FALSE,NA,es,FALSE,NA,64,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-31T07:01:33Z,1620316338823565300,1620316338823565313,Revive el entrenamiento de ayer con el café mañanero ☕️ https://t.co/GhKHLKzE9m,Revive el entrenamiento de ayer con el café mañanero ☕️ https://t.co/GhKHLKzE9m,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,78,1514,FALSE,NA,FALSE,NA,es,FALSE,NA,55,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T22:31:01Z,1620187859025121300,1620187859025121283,🔜 #BetisBarça https://t.co/H1QLHSyVez,🔜 #BetisBarça https://t.co/H1QLHSyVez,FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,98,2378,FALSE,NA,FALSE,NA,und,FALSE,NA,13,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T22:00:30Z,1620180177538924500,1620180177538924545,Ansumaneeeee 😊 https://t.co/qMRDThrHkl,Ansumaneeeee 😊 https://t.co/qMRDThrHkl,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,321,11924,FALSE,NA,FALSE,NA,en,FALSE,NA,14,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T21:30:00Z,1620172502545596400,1620172502545596417,Don 🇩🇰 https://t.co/puqppiZUxA,Don 🇩🇰 https://t.co/puqppiZUxA,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,194,7068,FALSE,NA,FALSE,NA,und,FALSE,NA,6,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T21:00:02Z,1620164958884429800,1620164958884429824,Mamba Mentality 🐍🧠 https://t.co/GaIsDI1yfJ,Mamba Mentality 🐍🧠 https://t.co/GaIsDI1yfJ,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,228,8507,FALSE,NA,FALSE,NA,tl,FALSE,NA,18,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T20:30:56Z,1620157638511136800,1620157638511136768,"💪 El esfuerzo duro tiene recompensa 💪
+              ⚒️ @FerranTorres20 ⚒️ https://t.co/hIIqCtoRfw","💪 El esfuerzo duro tiene recompensa 💪
+              ⚒️ @FerranTorres20 ⚒️ https://t.co/hIIqCtoRfw",FALSE,,"<a href=""http://grabyo.com"" rel=""nofollow"">Grabyo</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,121,2505,FALSE,NA,FALSE,NA,es,FALSE,NA,73,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T20:00:02Z,1620149859901644800,1620149859901644808,💎 https://t.co/oouhiwHND0,💎 https://t.co/oouhiwHND0,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,174,7007,FALSE,NA,FALSE,NA,und,FALSE,NA,1,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T19:15:00Z,1620138527458467800,1620138527458467842,"🎧🎶 ¿Qué escucha @pedri antes de los partidos? 
+
+👀 @spotifyspain","🎧🎶 ¿Qué escucha @pedri antes de los partidos? 
+
+👀 @spotifyspain",FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,116,2497,FALSE,NA,FALSE,NA,es,NA,NA,63,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T18:15:11Z,1620123472973160400,1620123472973160463,⏰ Los 𝗵𝗼𝗿𝗮𝗿𝗶𝗼𝘀 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝗰𝗶𝗼𝗻𝗮𝗹𝗲𝘀 del Betis - Barça https://t.co/uENbDvu6bp,⏰ Los 𝗵𝗼𝗿𝗮𝗿𝗶𝗼𝘀 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝗰𝗶𝗼𝗻𝗮𝗹𝗲𝘀 del Betis - Barça https://t.co/uENbDvu6bp,FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,77,2039,FALSE,NA,FALSE,NA,es,FALSE,NA,72,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T18:00:01Z,1620119657221963800,1620119657221963776,"¿Cómo va la tarde, culers? 😃 https://t.co/Ym4bIIUSsD","¿Cómo va la tarde, culers? 😃 https://t.co/Ym4bIIUSsD",FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,376,9316,FALSE,NA,FALSE,NA,es,FALSE,NA,28,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T17:10:16Z,162010713685538e4,1620107136855379968,"El mejor equipo de la primera vuelta 💪 ¡Queremos más!
+https://t.co/UL0NmgDN1c","El mejor equipo de la primera vuelta 💪 ¡Queremos más!
+https://t.co/UL0NmgDN1c",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,110,2536,FALSE,NA,FALSE,NA,es,FALSE,NA,77,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T16:49:22Z,1620101877487501300,1620101877487501312,"[HORARIO CONFIRMADO]
+
+⚽ #BarçaCádiz
+📌 @LaLiga  | Jornada 22
+
+🗓 Domingo, 19 de febrero
+⏰ 21.00 horas https://t.co/kLD66idNLo","[HORARIO CONFIRMADO]
+
+⚽ #BarçaCádiz
+📌 @LaLiga  | Jornada 22
+
+🗓 Domingo, 19 de febrero
+⏰ 21.00 horas https://t.co/kLD66idNLo",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,93,1679,FALSE,NA,FALSE,NA,pt,FALSE,NA,99,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T16:32:24Z,1620097606830506e3,1620097606830505984,"Comunicado del FC Barcelona
+
+Todos los detalles 👉  https://t.co/lyCVGYGbh3 https://t.co/JSHNysiUzp","Comunicado del FC Barcelona
+
+Todos los detalles 👉  https://t.co/lyCVGYGbh3 https://t.co/JSHNysiUzp",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,249,4181,FALSE,NA,FALSE,NA,es,FALSE,NA,74,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T16:00:32Z,1620089587388321800,1620089587388321792,Las 𝑀𝑎𝑡𝑐ℎ𝑑𝑎𝑦 𝑝𝑙𝑎𝑦𝑙𝑖𝑠𝑡𝑠 de @SpotifySpain de Pedri y Alexia Putellas 🎶,Las 𝑀𝑎𝑡𝑐ℎ𝑑𝑎𝑦 𝑝𝑙𝑎𝑦𝑙𝑖𝑠𝑡𝑠 de @SpotifySpain de Pedri y Alexia Putellas 🎶,FALSE,,"<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,123,2599,FALSE,NA,FALSE,NA,en,NA,NA,68,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T15:32:38Z,1.6200825695126241e+18,1620082569512624130,Un duelo de altura ☄️ https://t.co/nKfPYGFmkZ,Un duelo de altura ☄️ https://t.co/nKfPYGFmkZ,FALSE,,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,1117,26835,FALSE,NA,FALSE,NA,es,FALSE,NA,21,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-01-30T15:17:21Z,1620078722467463200,1620078722467463169,"⚠ SOCIOS Y SOCIAS
+
+Consulta aquí el nuevo protocolo de control y seguridad para partidos de alto riesgo 👇
+
+https://t.co/FK2ay9HXlT","⚠ SOCIOS Y SOCIAS
+
+Consulta aquí el nuevo protocolo de control y seguridad para partidos de alto riesgo 👇
+
+https://t.co/FK2ay9HXlT",FALSE,,"<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",NA,NA,NA,NA,NA,,,,NA,FALSE,60,1173,FALSE,NA,FALSE,NA,es,FALSE,NA,130,NA,,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
